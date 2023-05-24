@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://gifimage.net/wp-content/uploads/2017/06/hackerman-gif-5.gif" alt="MasterHead">
-</div>
+[![MasterHead](https://gifimage.net/wp-content/uploads/2017/06/hackerman-gif-5.gif)](https://github.com/your-username/your-repository)
+
 <h1 align="left">Hi 👋, I'm Mike Oduor.</h1>
 <h3 align="left">I am a passionate infosec reasearcher and Network Engineer. I enjoy hacking, software development, Electrical DIYs and Automotive Engineering</h3>
 <img  align="right" alt="malware" width="400" scr="https://i.gifer.com/7zon.gif">
