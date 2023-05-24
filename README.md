@@ -1,7 +1,7 @@
 <p>
-  Here is some text, and below is an image:
-  <br>
-  <img src="https://media.istockphoto.com/id/175194979/photo/big-stretch.jpg?s=612x612&w=0&k=20&c=1DMdAkJMllfbCuwlN0OdD1vWbsz-kdD-PloadnaPDwY=" alt="Image Description">
+  <div align="center">
+  <img src="https://media.istockphoto.com/id/175194979/photo/big-stretch.jpg?s=612x612&w=0&k=20&c=1DMdAkJMllfbCuwlN0OdD1vWbsz-kdD-PloadnaPDwY=" alt="MasterHead">
+  </div>
 </p>
 
 <h1 align="left">Hi 👋, I'm Mike Oduor.</h1>
