@@ -1,4 +1,8 @@
-[![MasterHead](https://gifimage.net/wp-content/uploads/2017/06/hackerman-gif-5.gif)](https://github.com/your-username/your-repository)
+<p>
+  Here is some text, and below is an image:
+  <br>
+  <img src="https://media.istockphoto.com/id/175194979/photo/big-stretch.jpg?s=612x612&w=0&k=20&c=1DMdAkJMllfbCuwlN0OdD1vWbsz-kdD-PloadnaPDwY=" alt="Image Description">
+</p>
 
 <h1 align="left">Hi 👋, I'm Mike Oduor.</h1>
 <h3 align="left">I am a passionate infosec reasearcher and Network Engineer. I enjoy hacking, software development, Electrical DIYs and Automotive Engineering</h3>
