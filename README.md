@@ -1,6 +1,6 @@
 <p>
   <div align="center">
-  <img src="[https://media.istockphoto.com/id/175194979/photo/big-stretch.jpg?s=612x612&w=0&k=20&c=1DMdAkJMllfbCuwlN0OdD1vWbsz-kdD-PloadnaPDwY=](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuMb2IgDb_zs/v0/-999x-999.gif)" alt="MasterHead">
+  <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuMb2IgDb_zs/v0/-999x-999.gif" alt="MasterHead">
   </div>
 </p>
 
