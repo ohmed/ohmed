@@ -10,7 +10,13 @@
 <p align="left">
 </p>
 
+
+### :octocat: git stats
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohmed&show_icons=true&locale=en&layout=compact" alt="something went wrong" style="height: 200px; length: 400px; width: 400p" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ohmed"alt="something went wrong" style="height: 200px;" />
+</p>
+ 
+<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ohmed&" alt="something went wrong" style="height: 200px;" />
 </p>
