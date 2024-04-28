@@ -20,6 +20,6 @@
 </p>
 
   <p style="text-align: center;" >
-  <img align="center" src="https://streak-stats.demolab.com?user=ohmed&theme=prussian&border_radius=5&card_width=810"alt="something went wrong" style="height: 200px;" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=ohmed&theme=prussian&border_radius=5&card_width=810"alt="something went wrong" style="height: 200px;" />
 </p>
 
