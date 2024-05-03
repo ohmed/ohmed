@@ -18,8 +18,7 @@
   <span> </span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ohmed&theme=prussian&border_radius=5&"alt="something went wrong" style="height: 200px;" />
 </p>
-
-  <p style="text-align: center;" >
-  <img align="center" src="https://streak-stats.demolab.com/?user=ohmed&theme=prussian&border_radius=5&card_width=810"alt="something went wrong" style="height: 200px;" />
-</p>
+  <span> </span>
+  <span> </span>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ohmed&theme=prussian&border_radius=5&card_width=810"alt="something went wrong" style="height: 200px; text-align: center;" /> </p>
 
