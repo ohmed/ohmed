@@ -4,9 +4,9 @@
   </div>
 </p>
 
-<h1 align="left">Mike Oduor Husein.</h1>
+<h1 align="left">Michael.</h1>
 
-<h3 align="left">Connect with me: <a href="https://www.twitter.com/Known_Mike"> on twitter</a> </h3>
+<h3 align="left">Connect with me: <a href="https://www.twitter.com/mikewithoutanx"> on twitter</a> </h3>
 <p align="left">
 </p>
 
