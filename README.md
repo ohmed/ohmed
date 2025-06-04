@@ -16,7 +16,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohmed&theme=prussian&border_radius=5&show_icons=true&locale=en&layout=compact" alt="something went wrong" style="height: 200px; length: 400px; width: 400p" />
   <span> </span>
   <span> </span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ohmed&theme=prussian&border_radius=5&"alt="something went wrong" style="height: 200px;" />
+  <img align="center" src="&"alt="something went wrong" style="height: 200px;" />
 </p>
   <span> </span>
   <span> </span>
